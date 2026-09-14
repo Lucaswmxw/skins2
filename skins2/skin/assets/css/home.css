@@ -1,0 +1,88 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 100%;
+    height: 100vh;
+    background: #333;
+}
+.logo img{
+    width: 12%;
+    height: auto;
+    margin-left: 45%;
+    margin-top: -1%;
+}
+header{
+    width: 100%;
+    height: 20vh;
+    background: #340363;
+    float: left;
+}
+.game{
+    width: 100%;
+    height: 35vh;
+    background: #ccc;
+    float: left;
+    
+}
+#cs2{
+    background: #000000;
+}
+#valorant{
+    background: #000000;
+    height: 38vh;
+}
+.skin{
+    background: #7905e6;
+    width: 16%;
+    height: 25vh;
+    float: left;
+    margin-left: 3.4%;
+    margin-top: 0.5vh;
+    border-radius: 12px;
+}
+.skin img{
+    width: 80%;
+    height: auto;
+    float: left;
+    margin-left: 10%;
+}
+#cs{
+    color: #7905e6;
+    font-weight: normal;
+    font-family: fantasy;
+    font-size: 3rem;
+    margin-left: 41.8%;
+    margin-top: 1vh;
+}
+#vava{
+    color: #7905e6;
+    font-weight: normal;
+    font-family: fantasy;
+    font-size: 3rem;
+    margin-left: 45.5%;
+    margin-top: 1vh;
+}
+.csskin{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-left: 17%;
+}
+.vaskin{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-left: 17%;
+}
+footer{
+    width: 100%;
+    height: 10vh;
+    background: #340363;
+    float: left; 
+}
